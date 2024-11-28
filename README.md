@@ -4,7 +4,7 @@
 
 <img align="right" alt="codding" width="400" src="https://www.shutterstock.com/image-photo/data-analyst-working-on-business-600nw-2277411191.jpg" >
 
-- 🔭 I’m currently working on [MySoft Limited](https://www.mysoftltd.com){:target="_blank"}
+- 🔭 I’m currently working on [MySoft Limited](https://www.mysoftltd.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
