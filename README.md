@@ -18,7 +18,7 @@
 
 ## 👨‍💻 **About Me**
 
-I’m a passionate **Full-Stack Web Developer** specializing in **Angular, React, Next.js, Node.js, MongoDB**, and modern web technologies.  
+I’m a passionate **Full-Stack Web Developer** specializing in ** React.js, Next.js, Angular, Node.js, Express.js, MongoDB, MySQL**, and modern web technologies.  
 I love building scalable, high-performance applications and exploring new technologies every day.
 
 ### 🔥 **Current Activities**
