@@ -32,19 +32,40 @@ I love building scalable, high-performance applications and exploring new techno
 ## 🛠️ **Skills & Tools**
 
 <p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+  <p align="left">
+  <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+
+  <!-- Next.js (white icon) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" width="40"/>
+
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/>
+
+  <!-- Express.js (white icon) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+
+  <!-- Tailwind CSS -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+
+  <!-- Bootstrap -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+
+  <!-- Firebase -->
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+</p>
+
 </p>
 
 ---
@@ -52,11 +73,8 @@ I love building scalable, high-performance applications and exploring new techno
 ## 🔗 **Connect With Me**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/faysal-hossain11" target="_blank">
+  <a href="https://www.linkedin.com/in/faysal-hossain-4a766a23b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
-  </a>
-  <a href="mailto:faysalhossaindev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
   </a>
   <a href="https://wa.me/8801639828754">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>
@@ -65,37 +83,13 @@ I love building scalable, high-performance applications and exploring new techno
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-hossain11&theme=default" />
-</p>
+![Faysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faysal-hossain11&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysal-hossain11&show_icons=true&layout=compact" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faysal-hossain11)
 
----
-
-## 📌 **Pinned Repositories**
-
-### 🔹 1. Project – Tourism Booking Website
-**Description:** A complete MERN stack tourism booking platform.  
-**Live:** https://your-live-link.com  
-**Tech:** React, Node.js, MongoDB, Tailwind  
-**Repo:** https://github.com/faysal-hossain11/tourism-booking  
-
-### 🔹 2. Project – Inventory Management System  
-**Description:** Business inventory & stock management app.  
-**Live:** https://your-live-link.com  
-**Tech:** Angular, Node.js, Express, MongoDB  
-**Repo:** https://github.com/faysal-hossain11/inventory-app  
-
-### 🔹 3. Project – Personal Portfolio  
-**Description:** Developer portfolio built with Next.js 15.  
-**Live:** https://your-live-link.com  
-**Tech:** Next.js, Tailwind CSS  
-**Repo:** https://github.com/faysal-hossain11/portfolio  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faysal-hossain11&theme=github-light)
 
 ---
 
