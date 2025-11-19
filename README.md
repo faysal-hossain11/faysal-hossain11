@@ -4,15 +4,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Faysal Hossain</h1>
-<h3 align="center">Full-Stack Developer | Angular • React • Next.js • Node.js • MongoDB</h3>
+<h3 align="center">Full-Stack Developer |  React • Next.js • Angular • Node.js • Express.js • MongoDB • MySQL </h3>
 <h3 align="center">Currently Working at <a href="https://www.mysoftltd.com">"MySoft Limited"</a></h3>
 
 ---
 
 ### 🌍 **Location & Contact**
-- 🏠 **Location:** Dhaka, Bangladesh  
+- 🏠 **Location:** Shewrapara Mirpur Dhaka, Bangladesh  
 - 📧 **Email:** devfaysalbd@gmail.com  
-- 📱 Whats'app <a href="tel:+8801639828754">:+8801639828754</a>  
+- 📱 **Whats'app:** <a href="tel:+8801639828754">+8801639828754</a>  
 
 ---
 
