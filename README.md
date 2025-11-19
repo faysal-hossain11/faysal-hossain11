@@ -24,9 +24,8 @@ I love building scalable, high-performance applications and exploring new techno
 ### 🔥 **Current Activities**
 - 🚀 I’m exploring **Next.js 15 & App Router**
 - 🌐 Building a **tourism booking website** with MERN stack
-- 🎥 Creating content for my **Coding YouTube Channel**
-- 💼 Working at **MySoft Limited** as a Developer  
-- 📚 Practicing **clean architecture & scalable backend design**
+- 💼 Working at **MySoft Limited** as a Full-Stack Developer  
+- 📚 Practicing **clean architecture & scalable backend**
 
 ---
 
