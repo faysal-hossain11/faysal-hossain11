@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/6RYSxjF/github-banner.jpg" alt="Banner" />
+  <img src="https://i.postimg.cc/QtGbmYBT/Blue-White-Modern-Online-Business-Webinar-Banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Faysal Hossain</h1>
